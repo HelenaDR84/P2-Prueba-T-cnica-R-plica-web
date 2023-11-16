@@ -3,6 +3,7 @@
 Comenzando 🚀
 
 Descripción de su proyecto: Segundo trabajo, individual de P3 Femcoders Norte. desarrollar una web estática, utilizando los mockups proporcionados por las profesoras, como clientas. 
+
 Cómo ejecutar (funcionalidades)
 ● Responsive.
 ● Los botones son clickables.
